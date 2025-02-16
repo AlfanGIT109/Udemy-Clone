@@ -19,7 +19,7 @@ Clone the repository:
 sh
 Copy
 Edit
-git clone https://github.com/your-username/udemy-clone.git  
+git clone https://github.com/your-AlfanGIT109/udemy-clone.git  
 Open index.html in a browser.
 
 # Contributing 🤝
